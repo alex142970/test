@@ -1,0 +1,17 @@
+{
+    "name": "alex/test",
+    "authors": [
+        {
+            "name": "alex142970",
+            "email": "54150658+alex142970@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
